@@ -4,9 +4,9 @@
 2. Find Microsoft SQL Server in All Programs
 3. Click Import and Export Data
 4. Data Source: Choose Microsoft Excel from the drop-down menu.
-   Excel File Path: Specify the path of the Excel file from which you are importing data (or you can clikc browse)
+   Excel File Path: Specify the path of the Excel file from which you are importing data (or you can click browse)
    Excel Version: Choose the Excel version where you created the Excel (I only saw 2007). Click next
-5. Now you need to choose your database detination -  
+5. Now you need to choose your database destination -  
       Data Source: Choose SQL Server Native Client 11.0 from the drop-down menu.
       Server Name: Type the name of the destination database's SQL Server instance (it did not come up so typed it in manually)
       Authentication: Choose the appropriate authentication mode for the data destination connection 
@@ -14,4 +14,4 @@
 6. Choose which copy method you prefer and click next
 7. Look at the destination table and make sure it's the right one otherwise choose it from the list.
 8. Click Edit Mappings and make sure the column names line up. Then click next
-9. Keep clikcing nextand then click finish at the end
+9. Keep clicking next and then click finish at the end
